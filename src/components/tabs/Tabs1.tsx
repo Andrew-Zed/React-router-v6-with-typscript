@@ -1,8 +1,8 @@
-import React from 'react';
+
 
 const Tab1=() => {
   return <div className='tabs'>
-      <h2>Welcome to Tab 1</h2>
+      <h2>Welcome to My Form Page</h2>
 
       {/** Tab navigation */}
       

@@ -1,8 +1,8 @@
-import React from 'react';
+
 
 const Tab2=() => {
   return <div className='tabs'>
-      <h2>Welcome to Tab 2</h2>
+      <h2>Welcome to My Todo List</h2>
 
       {/** Tab navigation */}
       

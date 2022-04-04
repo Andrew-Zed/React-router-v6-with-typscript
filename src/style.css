@@ -67,3 +67,9 @@ h2{
     color: #365262!important;
     text-decoration: underline!important;
 }
+.tabNav{
+    display: flex;
+}
+.tabLinks{
+    margin: 0 10px;
+}
